@@ -10,39 +10,39 @@
 locale                   : "en-US"
 title                    : "Shankruth"
 title_separator          : "-"
-name                     : &name "Aayush Agrawal"
+name                     : &name "Shankruth Balasubramaniyam"
 description              : &description "Robotics and Artificial Intelligence"
-url                      : https://aayushagrawal2003.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shankruthbalasub.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AayushAgrawal2003/AayushAgrawal2003.github.io"
+repository               : "Harinibalasub/shankruthbalasub.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Aayush Agrawal"
+  avatar           : "me.png"
+  name             : "Shankruth Balasubramaniyam"
   pronouns         : # example: "she/her"  
   bio              : "Robotics and Artificial Intelligence"
   location         : "India"
   employer         : "Indian Institute of Technology, Madras"
   uri              : # URL
-  email            : "agrawal@smail.iitm.ac.in" 
+  email            : "na21b064@smail.iitm.ac.in" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=z8JYL5YAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=AnBadHsAAAAJ&view_op=list_works&gmla=AL3_ziivFr5V1sH12cUdCjKBUSFe1gA30VRZvr_6DtbwmL-riGsiGQc_hVYSn7zwCv_seKnDCmHUcGUvmZli_edbtOjn8Uvc5QBJAw"
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow" 
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Shankruth-Balasubramaniyam/research"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "AayushAgrawal2003"
+  github           : "cfc14"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
